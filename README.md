@@ -6,4 +6,6 @@ Project developted apllying basic knowladge from The Web Developer Bootcamp 2021
 </h3>
 
 
-![gif](imgs/museumOfCandy.gif)
+<p align="center">
+  <img width="460" height="300" src="./imgs/museumOfCandy.gif">
+</p>
