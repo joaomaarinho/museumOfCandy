@@ -2,7 +2,7 @@
 
 ---
 <h3>
-Project developted apllying basic knowladge from The Web Developer Bootcamp 2021, Colt Steele Udemy course.
+Project developted apllying CSS and HTML knowladge from The Web Developer Bootcamp 2021, Colt Steele Udemy course.
 </h3>
 
 
