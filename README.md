@@ -2,9 +2,8 @@
 
 ---
 <h3>
-Project developed applying basic CSS and HTML knowledge from The Web Developer Bootcamp 2021, Colt Steele Udemy course.
+Project developted apllying basic knowladge from The Web Developer Bootcamp 2021, Colt Steele Udemy course.
 </h3>
 
-<p align="center">
-  <img src="https://gifyu.com/image/OeVI" alt="animated" />
-</p>
+
+![gif](imgs/museumOfCandy.gif)
